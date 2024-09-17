@@ -1,0 +1,6 @@
+This is the first line of text.
+Here is the second line with a number: 12345
+Finally, the third line with a mix: Hello, World! 6789
+Appending a new line with text.
+Adding another line with number: 98765
+And a final line with text: Goodbye, World!
